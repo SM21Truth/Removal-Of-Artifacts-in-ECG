@@ -1,6 +1,7 @@
 # Baseline Wander Correction using Adaptive Moving Average Algorithm
 ## Overview
 This MATLAB code corrects baseline wander in ECG signals using the Adaptive Moving Average Algorithm. The algorithm adaptively estimates the filter window that minimizes the rate of change in variance of the ECG signal with respect to the estimated baseline.
+![Image](https://github.com/user-attachments/assets/b8ad8c46-4142-4cf4-868c-783eccfcff5b)
 
 ## Function: calculateWanderInDC
 ### Purpose
